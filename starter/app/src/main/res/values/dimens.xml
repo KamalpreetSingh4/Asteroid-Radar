@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="heading_size">20sp</dimen>
+    <dimen name="date_size">18sp</dimen>
+    <dimen name="detail_size">18sp</dimen>
+    <dimen name="detail_small_size">16sp</dimen>
+    <dimen name="padding_constraint">10dp</dimen>
+    <dimen name="margin_start">16dp</dimen>
+    <dimen name="image_size">33dp</dimen>
+    <dimen name="image_margin">18dp</dimen>
+    <dimen name="guideline_constraint">340dp</dimen>
+    <dimen name="frame_layout_size">220dp</dimen>
+</resources>
